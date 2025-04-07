@@ -39,10 +39,21 @@ On Kali linux, reopen the terminal and invoke "msfconsole".Follow the necessary 
 Use the help command to list available operations.
 
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/6e31ca21-f0f7-4ab9-b4ab-887d5a77dae0" />
+
+
+
+
+
 ## Step8:
-For example,the "screenshot" command captures the victim's screen and saves it in the attacker's home directory.
+For example,the "webcam_stream" command captures the victim's webcam and saves it in the attacker's home directory.
+
+![Screenshot 2025-04-07 113710](https://github.com/user-attachments/assets/a8d8af05-c75d-441a-af82-85b3418b795f)
 
 
+## Step9:Terminate the Connection
+After completing the intended operations, closr the session securly.
+## Result: 
+The Metasploit framework for reconnaissance is examined successfully.
 
 
 
