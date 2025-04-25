@@ -22,8 +22,9 @@ Determine the IP address of the attacker's system.
 Invoke the msfconsole
 
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/b2b24b39-2233-4399-a808-07c24efeb8bd" />
-## Step3:Generate Payload Using msfvenom
 
+
+## Step3:Generate Payload Using msfvenom:
 Execute the following command to generate a Windows Meterpreter reverse shell payload.exe 
 
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/8ab90359-d750-48c3-8839-cfdd75fbf419" />
